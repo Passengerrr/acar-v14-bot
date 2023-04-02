@@ -1,0 +1,49 @@
+{
+"TOKENLER": {
+"Statistics": "MTA2MTAxODMzODQyNTMwNzIzNg.G4MP5p.hT8hJZDdwwgF7VM9o00AVYju22X-73msEIIZGM",
+"Moderation":"MTAzODA3ODg5NzcyNTY0MDczNA.Gu-xvA.LRays9koHd5s24_VpIfoR7nNKQP6PRxTPfGf8A",
+"Web": "NzIzMTg5NTA2NDU4Nzc5Njc5.G00dy4.na4FN3kr484FnXG4HmkjXjXcUkn7_ibRVcclls",
+"Management": "MTA2MTAxODEzMjE4MzAxMTMyOA.GPkmVW.Lb6ZxqC8WR1OEnHDoew2JhSE1aVQHpU3No3zoI",
+"AUXLİARY": "MTA2MTAxNzk5OTkwNzIzNzk3OA.GcsrNC.Z4Nd2jhI9IauHV-p2RpsN9e0DwZ62asaGIznrs",
+"Guard_1": "MTA2MTAxODQzNDAyNjA5NDYzNA.Gj7eYl.Cta41UKEMw9Rhgqt2uTJPnq1b5-eT4nGETdVVc",
+"Guard_2": "MTA2MTAxODQzNDAyNjA5NDYzNA.Gj7eYl.Cta41UKEMw9Rhgqt2uTJPnq1b5-eT4nGETdVVc",
+"Guard_3": "MTA2MTAxODQzNDAyNjA5NDYzNA.Gj7eYl.Cta41UKEMw9Rhgqt2uTJPnq1b5-eT4nGETdVVc",
+"Guard_4": "MTA2MTAxODQzNDAyNjA5NDYzNA.Gj7eYl.Cta41UKEMw9Rhgqt2uTJPnq1b5-eT4nGETdVVc",
+"Guard_5": "MTA2MTAxODQzNDAyNjA5NDYzNA.Gj7eYl.Cta41UKEMw9Rhgqt2uTJPnq1b5-eT4nGETdVVc",
+"Dağıtıcılar": [
+"MTA2MTAxODYzMzc1ODg0MjkxMA.GEKr0L.jFGJoECQzwlKYiZ4lkLF_W3Ib5i4ZrO024LxBI"
+      ]
+},
+
+  "botSettings": {
+    "Prefixs": [
+      "."
+    ]
+  },
+
+  "botStatus": {
+    "Status": "online",
+    "Name": "for with 💓 cartel",
+     "type": "LISTENING"
+  },
+    "SUNUCU": {
+    "GUILD": "1075739906715963425",
+    "GUILD_NAME": "Ψ V E R O N A #YIKILMAZ", 
+     "TELEGRAM": true,
+     "NUMBER": "+1362762981",
+     "SMS": true,
+     "Install": true,
+    "VoiceChannelID": "1078956552955895829"
+  },
+"cartel": "719117042904727635",
+ 
+        "_rooter": {
+"rooters": ["719117042904727635"]
+},
+  "Database": {
+    "Active": true,
+    "MongoURL": "mongodb+srv://munur:nikoali1@cluster0.4n3ecrj.mongodb.net/news?retryWrites=true&w=majority"
+  }
+
+
+}
