@@ -1,0 +1,16 @@
+const { cartel } = require('../../base/Clients/Global.Clients');
+const { Mongoose } = require('../../database/Global.MongoDB.Driver');
+const client = global.client = new cartel();
+const { GUILD } = require('../../base/Reference/Settings');
+
+// Client Ayarları (Başlangıç)
+client.botİsmi = "Moderation"
+// Client Ayarları (SON)
+
+Mongoose.Connect()
+GUILD.fetch(sistem.SUNUCU.GUILD, client)
+
+client.fetchCommands(true, false)
+client.fetchEvents()
+client.connect(sistem.TOKENLER.Moderation)
+
